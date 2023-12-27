@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Whatsapp", "Whatsapp\Whatsapp.vbproj", "{74B12FC7-22D3-4D28-948A-5478E702ACE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Debug|x86.ActiveCfg = Debug|x86
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Debug|x86.Build.0 = Debug|x86
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Release|x86.ActiveCfg = Release|x86
+		{74B12FC7-22D3-4D28-948A-5478E702ACE0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11F9180-BD0D-4D75-AB9D-6376F8C850EA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/arathinasamy
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Whatsapp\\Whatsapp.vbproj
+		SccProjectName1 = Whatsapp
+		SccLocalPath1 = Whatsapp
+	EndGlobalSection
+EndGlobal
